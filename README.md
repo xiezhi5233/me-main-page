@@ -1,4 +1,4 @@
-﻿# dz-x的个人项目
+﻿# 个人项目
 
 > A Vue.js project
 
